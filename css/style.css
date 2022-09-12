@@ -265,6 +265,7 @@ small {
     .container {
         display: flex;
         flex-direction: row;
+        margin: 150px auto; 
     }
 
     header {
@@ -284,10 +285,6 @@ small {
         height: 245px;
         margin: -170px 0 0 -120px;
     }
-
-    /* .front {
-        margin-top: 35px;
-    } */
 
     .back {
         margin-top: -20px;
